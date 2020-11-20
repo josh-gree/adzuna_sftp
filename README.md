@@ -1,6 +1,6 @@
 # To run
 
-- populate .env.sample with credentials and rename to .env
+- populate `.env.sample` with credentials and rename to `.env`
 
 ```
 > pip install pipenv
